@@ -3,29 +3,28 @@
 <br/>
 <br/>
 
+💬 Ask me about React Native, ReactJS and node.js
+
+📫 How to reach me gustavodev60@gmail.com
+
 **Social Media:**
+<p align="left">
+<a href="https://www.linkedin.com/in/gustavo-silva-8002201b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gustavo-silva-8002201b5/" height="30" width="40" /></a>
+  </p>
 
-[![GitHub](icons/github.png)](https://github.com/guusta7)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/gustavo-silva-8002201b5/)
-[![Twitter](icons/twitter.png)](https://twitter.com/guusta77)
-
-**Currently working with:**
-
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-  
-**Learning:**
-
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-
-**Previously worked with:**
-
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://java.com/" title="JAVA"><img src="icons/java.png" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+ <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank"> </p>
 
 <br/>
 <br/>
@@ -40,6 +39,4 @@
 |:---:|
 |[![trophy](https://github-profile-trophy.vercel.app/?username=guusta7&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)|
 
-|Wakatime Stats|
-|:---:|
-|[![Gustavo Silva wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guusta7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
