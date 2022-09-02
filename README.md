@@ -35,10 +35,10 @@
 
 |GITHUB STATS|LANGUAGES|
 |:---:|:---:|
-|[![Gustavo Silva github stats](https://github-readme-stats.vercel.app/api?username=guusta_dev&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=guusta_dev&theme=midnight-purple&layout=compact&langs_count=8)
+|[![Gustavo Silva github stats](https://github-readme-stats.vercel.app/api?username=devguusta&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![1](https://github-readme-stats.vercel.app/api/top-langs/?username=devguusta&theme=midnight-purple&layout=compact&langs_count=8)
 
 |GITHUB TROPHIES|
 |:---:|
-|[![trophy](https://github-profile-trophy.vercel.app/?username=guusta_dev&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)|
+|[![trophy](https://github-profile-trophy.vercel.app/?username=devguusta&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)|
 
 
